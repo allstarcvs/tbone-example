@@ -2,6 +2,10 @@
 
 This is an example application that uses TBone (https://github.com/allstarcvs/tbone)
 
+# Preview
+
+Click on this http://rawgit.com/allstarcvs/tbone-example/master/public/index.html to preview the result.
+
 # Usage
 
 Compile with maven
@@ -24,3 +28,7 @@ http://localhost:8000/
 ```
 
 and you shall see "Hello World!"
+
+# Exercises
+
+Go to HelloWorld.java to add more DOM elements.  Check SemanticUi.Java in the TBone project for more utilities.
