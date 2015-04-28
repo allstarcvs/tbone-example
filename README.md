@@ -4,12 +4,6 @@ This is an example application that uses TBone (https://github.com/allstarcvs/tb
 
 # Usage
 
-Use bower to install the javascript libraries
-
-```
-bower install
-```
-
 Compile with maven
 
 ```
